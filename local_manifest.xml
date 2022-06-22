@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/juice" name="kalkioss/device_xiaomi_juice.git" remote="github" revision="snow" />
+ <project path="vendor/xiaomi/juice" name="kalkioss/vendor_xiaomi_juice.git" remote="github" revision="snow" />
+ <project path="kernel/xiaomi/juice" name="kalkioss/Xiaomi-Fury-Bengal-SD662.git" remote="github" revision="JuiceIcedSnow" />
+ 
+</manifest>
